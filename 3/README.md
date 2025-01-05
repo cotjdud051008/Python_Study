@@ -139,7 +139,7 @@
     <tr>
         <td>ceil()</td>
         <td>올림</td>
-    </tr>
+    </tr> 
     <tr>
         <td>sqrt()</td>
         <td>제곱근</td>
@@ -147,7 +147,7 @@
 
 2. 모듈의 기능을 사용하려면 다음과 같이 import를 먼저 해야 합니다.
 
-형식 from 모듈명 import 기능
+<형식> from 모듈명 import 기능
 
 ## 6. random 모듈
 
